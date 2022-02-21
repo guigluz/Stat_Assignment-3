@@ -1,4 +1,4 @@
-# Stat_Assignment-3
+# Statistics Assignment 3
 
 ## Web Scraping task
 
