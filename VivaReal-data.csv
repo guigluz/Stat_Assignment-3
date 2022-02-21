@@ -1,0 +1,1081 @@
+tipo,m2,endereco,quartos,banheiros,vagas,aluguel
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
+    Apartamento com  Quarto para Aluguel,51,"      Avenida Nove de Julho, 481 - Bela Vista, São Paulo - SP    ",1,1,NA,893
+    Apartamento com  Quarto para Aluguel,40,"      Rua Paim, 363 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,38,"      Rua Doutor Plínio Barreto, 95 - Bela Vista, São Paulo - SP    ",1,1,NA,1508
+    Apartamento com  Quarto para Aluguel,40,"      Rua Herculano de Freitas, 47 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Sala/Conjunto    para Aluguel,37,"      Avenida Paulista, 91 - Bela Vista, São Paulo - SP    ",NA,1,1,3200
+    Apartamento com  Quarto para Aluguel,40,"      Rua Cincinato Braga, 306 - Bela Vista, São Paulo - SP    ",1,1,1,3500
+    Apartamento com  Quarto para Aluguel,36,"      Rua Itararé, 25 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Sala/Conjunto    para Aluguel,35,"      Rua Maestro Cardim, 560 - Bela Vista, São Paulo - SP    ",NA,1,1,1150
+    Sala/Conjunto    para Aluguel,60,"      Avenida Paulista, 1009 - Bela Vista, São Paulo - SP    ",NA,1,2,4400
+    Sala/Conjunto    para Aluguel,34,"      Avenida Paulista, 1636 - Bela Vista, São Paulo - SP    ",NA,1,1,2400
+    Sala/Conjunto    para Aluguel,100,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,2,NA,8300
+    Apartamento com 2 Quartos para Aluguel,60,"      Rua Maestro Cardim, 266 - Bela Vista, São Paulo - SP    ",2,2,1,4650
+    Sala/Conjunto    para Aluguel,560,"      Avenida Paulista, 726 - Bela Vista, São Paulo - SP    ",NA,10,NA,52080
+    Sala/Conjunto    para Aluguel,200,"      Avenida Paulista, 777 - Bela Vista, São Paulo - SP    ",NA,2,3,17500
+    Sala/Conjunto    para Aluguel,336,"      Rua Sílvia, 110 - Bela Vista, São Paulo - SP    ",NA,4,4,10000
+    Apartamento com  Quarto para Aluguel,42,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,3490
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá, 619 - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Sala/Conjunto    para Aluguel,78,"      Avenida Paulista, 1471 - Bela Vista, São Paulo - SP    ",NA,2,NA,4200
+    Ponto comercial/Loja/Box    para Aluguel,80,"      Avenida Paulista - Bela Vista, São Paulo - SP    ",NA,1,NA,1999
+    Apartamento com  Quarto para Aluguel,37,"      Rua Herculano de Freitas, 131 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,27,"      Avenida Paulista, 671 - Bela Vista, São Paulo - SP    ",1,1,NA,2200
+    Apartamento com  Quarto para Aluguel,32,"      Rua Humaitá - Bela Vista, São Paulo - SP    ",1,1,NA,700
+    Apartamento com  Quarto para Aluguel,42,"      Avenida Brigadeiro Luís Antônio, 339 - Bela Vista, São Paulo - SP    ",1,1,1,3300
+    Apartamento com  Quarto para Aluguel,40,"      Avenida Brigadeiro Luís Antônio, 1272 - Bela Vista, São Paulo - SP    ",1,1,NA,1600
+    Apartamento com  Quarto para Aluguel,30,"      Rua Santa Madalena, 72 - Bela Vista, São Paulo - SP    ",1,1,NA,2500
+    Casa com 3 Quartos para Aluguel,136,"      Rua Treze de Maio, 90 - Bela Vista, São Paulo - SP    ",3,3,NA,4000
+    Apartamento com  Quarto para Aluguel,54,"      Rua Maria Paula, 279 - Bela Vista, São Paulo - SP    ",1,1,NA,2000
+    Apartamento com  Quarto para Aluguel,32,"      Avenida Nove de Julho, 959 - Bela Vista, São Paulo - SP    ",1,1,NA,1000
+    Sala/Conjunto    para Aluguel,30,"      Bela Vista, São Paulo - SP    ",NA,1,NA,600
+    Apartamento com  Quarto para Aluguel,45,"      Bela Vista, São Paulo - SP    ",1,1,1,2500
+    Apartamento com  Quarto para Aluguel,41,"      Rua Artur Prado, 433 - Bela Vista, São Paulo - SP    ",1,1,1,2850
+    Apartamento com  Quarto para Aluguel,30,"      Rua Genebra, 230 - Bela Vista, São Paulo - SP    ",1,1,1,1300
+    Apartamento com  Quarto para Aluguel,29,"      Rua Paim, 307 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,39,"      Avenida Brigadeiro Luís Antônio, 499 - Bela Vista, São Paulo - SP    ",1,1,1,2400
+    Apartamento com  Quarto para Aluguel,52,"      Rua Itapeva, 636 - Bela Vista, São Paulo - SP    ",1,1,1,2100
+    Apartamento com  Quarto para Aluguel,32,"      Praça Quatorze Bis - Bela Vista, São Paulo - SP    ",1,1,NA,1200
